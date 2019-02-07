@@ -137,9 +137,9 @@ Target design
 
 ![Design 1](https://cdn.jsdelivr.net/gh/neopoly/switches-vanilla@master/doc/design-1.png)
 
-![Design 2](https://cdn.jsdelivr.net/gh/neopoly/switches-vanilla@master/doc/design-1.png)
+![Design 2](https://cdn.jsdelivr.net/gh/neopoly/switches-vanilla@master/doc/design-2.png)
 
-![Design 3](https://cdn.jsdelivr.net/gh/neopoly/switches-vanilla@master/doc/design-1.png)
+![Design 3](https://cdn.jsdelivr.net/gh/neopoly/switches-vanilla@master/doc/design-3.png)
 
 Environment
 -----------
